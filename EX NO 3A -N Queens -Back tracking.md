@@ -29,8 +29,8 @@ If there is no solution to the problem  print  "Solution does not exist"
 ## Program:
 ```
 /*
-Developed by: Naveen Kumar M
-Register Number: 212222110028
+Developed by: HARISH RAGAV S
+Register Number: 212222110013
 */
 import java.util.Scanner;
 
